@@ -71,7 +71,7 @@ URL Encoding
 
 **< td >**
 
-< caption >
+**< caption >**
 
 < thead >
 
@@ -102,14 +102,23 @@ Using Iframe as the Target
 ### Module 11: HTML-Headers
 
 Title
+
 Base
+
 Link
+
 Styles
+
 Script
+
 Meta
+
 Module 12: HTML-Miscellaneous
+
 HTML Meta Tag
+
 XHTML
+
 HTML Deprecated Tags & Attributes
 
 ## PART 2
@@ -117,74 +126,145 @@ HTML Deprecated Tags & Attributes
 Module 1: CSS2-Introduction
 
 Benefits of CSS
+
 CSS Versions History
+
 CSS Syntax
-External Style Sheet using < link >
+
+External Style Sheet using **< link >**
+
 Multiple Style Sheets
+
 Value Lengths and Percentages
-Module 2: CSS2-Syntax
+
+### Module 2: CSS2-Syntax
+
 CSS Syntax
+
 single Style Sheets
+
 Multiple Style Sheets
+
 Value Lengths and Percentages
-Module 3: CSS2-Selectors
+
+### Module 3: CSS2-Selectors
+
 ID Selectors
+
 Class Selectors
+
 Grouping Selectors
+
 Universal Selector
+
 Descendant / Child Selectors
+
 Attribute Selectors
-CSS - Pseudo Classes
-Module 4: CSS2-Color Background Cursor
-background-image
-background-repeat
-background-position
+
+### CSS - Pseudo Classes
+
+### Module 4: CSS2-Color Background Cursor
+
+**background-image**
+
+**background-repeat**
+
+**background-position**
+
 CSS Cursor
-Module 5: CSS2-Text Fonts
+
+### Module 5: CSS2-Text Fonts
+
 color
+
 background-color
+
 text-decoration
+
 text-align
+
 vertical-align
+
 text-indent
+
 text-transform
+
 white space
+
 letter-spacing
+
 word-spacing
+
 line-height
+
 font-family
+
 font-size
+
 font-style
+
 font-variant
+
 font-weight
-Module 6: CSS2-Lists Tables
+
+### Module 6: CSS2-Lists Tables
+
 list-style-type
+
 list-style-position
+
 list-style-image
+
 list-style
-CSS Tables
+
+### CSS Tables
+
 border
+
 width & height
+
 text-align
+
 vertical-align
+
 padding
+
 color
-Module 7: CSS2-Box Model
+
+### Module 7: CSS2-Box Model
+
 Borders & Outline
+
 Margin & Padding
+
 Height and width
-CSS Dimensions
-Module 8: CSS2-Display Positioning
+
+### CSS Dimensions
+
+## Module 8: CSS2-Display Positioning
+
 CSS Visibility
+
 CSS Display
+
 CSS Scrollbars
+
 CSS Positioning
+
 Static Positioning
+
 Fixed Positioning
+
 Relative Positioning
+
 Absolute Positioning
+
 CSS Layers with Z-Index
-CSS Floats
-The float Property
-The clear Property
+
+### 🎯 CSS Floats
+
+**The float Property**
+
+**The clear Property**
+
 The clear fix Hack

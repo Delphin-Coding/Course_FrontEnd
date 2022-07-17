@@ -4,9 +4,11 @@
 ## Course Overview 👩‍💻
 
 **Hypertext Markup Language (HTML)** is the foundation of website and web application development. It allows you to ensure that your content is understood by both segments of your audience: the **people** who watch, read, or listen to your content, and the **computers** that display it. 
+
 🎯 In this course, you will learn how to craft excellent HTML with the pieces that HTML itself has to offer. 
 
 I will highlight all of the fundamental concepts you need to use HTML thoughtfully. The focus is on **semantic markup**: tagging content as what it is, and not just for formatting, convention, or convenience. This has far-reaching impact for those who consume the web differently; it ensures that when a screen reader or a system (like a search engine) consumes a page, it knows exactly what it contains and how to categorize that information.
+
 🎯 This course teaches you how to create webpages from scratch using the most current standard in HTML -- HTML5.
 
 **HTML5** is the latest standard in web page coding. Whether you're a new or seasoned web designer, you need to know the latest in HTML architecture. HTML5 standards bring several new tags, including tags that enhance media and animations. Instead of clunky Flash applications, you use the canvas tag. Instead of embedding third-party software for users to view video or audio, you can use the **video and audio tags**. These are just a few of the new tags available to you.
